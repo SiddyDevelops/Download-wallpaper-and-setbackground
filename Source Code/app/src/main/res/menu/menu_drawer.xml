@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home"
+            android:icon="@drawable/home_icon"/>
+        <item
+            android:id="@+id/nav_trending"
+            android:title="Trending"
+            android:icon="@drawable/trending_icon"/>
+        <item
+            android:id="@+id/nav_mostViewed"
+            android:title="Most Viewed"
+            android:icon="@drawable/viewed_icon"/>
+        <item
+            android:id="@+id/nav_logout"
+            android:title="LogOut"
+            android:icon="@drawable/logout_icon"/>
+        <item
+            android:id="@+id/nav_about"
+            android:title="About Us"
+            android:icon="@drawable/about_icon"/>
+    </group>
+
+</menu>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "897945297437",
+    "project_id": "siddy-s-wallpapers",
+    "storage_bucket": "siddy-s-wallpapers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897945297437:android:f1405b30832618153f1cf4",
+        "android_client_info": {
+          "package_name": "com.siddydevelops.siddyswallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897945297437-q93b1j2u1boqdov33pnu3ilhisa2niif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.siddydevelops.siddyswallpapers",
+            "certificate_hash": "3a79e7cdd97662746c15a80c81b4721c0f228e20"
+          }
+        },
+        {
+          "client_id": "897945297437-h41ma38poegvgqcsn3r05cif8rc5au7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2_xRuWsTiOJWFOBco7vXKCDO02Dd1U8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897945297437-h41ma38poegvgqcsn3r05cif8rc5au7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
